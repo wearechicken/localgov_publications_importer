@@ -1,0 +1,3 @@
+import localgov publications from PDF:
+  title: 'Import localgov publications from PDF'
+  description: 'Allows users to upload PDF files, which will be turned into publications.'

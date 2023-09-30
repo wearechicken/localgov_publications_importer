@@ -1,0 +1,7 @@
+localgov_publications_importer.import:
+  path: '/admin/content/import-publication'
+  defaults:
+    _form: 'Drupal\localgov_publications_importer\Form\PublicationImportForm'
+    _title: 'Import Publication'
+  requirements:
+    _permission : 'import localgov publications from PDF'

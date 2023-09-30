@@ -1,0 +1,4 @@
+services:
+  localgov_publications_importer.importer:
+    class: Drupal\localgov_publications_importer\Service\Importer
+    arguments: ['@entity_type.manager']

@@ -1,0 +1,7 @@
+localgov_publications_importer.import:
+  title: 'Import Publication'
+  description: 'Import a publication from a file.'
+  parent: system.admin_content
+  route_name: localgov_publications_importer.import
+  weight: 100
+  menu_name: admin

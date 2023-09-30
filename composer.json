@@ -1,0 +1,17 @@
+{
+    "name": "wearechicken/localgov_publications_importer",
+    "description": "PDF to HTML publication importer for the LocalGovDrupal distribution.",
+    "type": "drupal-module",
+    "homepage": "https://github.com/wearechicken/localgov_publications_importer",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.7.0"
+    }
+}

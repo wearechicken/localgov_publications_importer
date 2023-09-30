@@ -1,0 +1,8 @@
+name: LocalGov Publications Importer
+type: module
+description: Imports PDF files to HTML publications.
+package: LocalGov Drupal
+core_version_requirement: ^9 || ^10
+
+dependencies:
+  - localgov_publications:localgov_publications
